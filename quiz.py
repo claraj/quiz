@@ -4,7 +4,7 @@ total_score = 0
 
 topic = input('Would you like art, or space questions? ')
 
-if topic == 'art':
+if topic.lower() == 'art':
 
     print('Who painted the Mona Lisa?')
     answer = input('Enter your answer: ')
@@ -37,7 +37,7 @@ if topic == 'art':
         print('You got all the answers correct!')
 
 
-elif topic == 'space':
+elif topic.lower() == 'space':
     
     print('Which planet is closest to the sun?')
     answer = input('Enter your answer: ')
