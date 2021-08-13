@@ -8,7 +8,7 @@ if topic.lower() == 'art':
 
     print('Who painted the Mona Lisa?')
     answer = input('Enter your answer: ')
-    if answer == 'Vincent Van Gogh':
+    if answer.lower() == 'vincent van gogh':
         print('Correct!')
         total_score += 1
     else:
@@ -16,7 +16,7 @@ if topic.lower() == 'art':
     
     print('What precious stone is used to make the artist\'s pigment ultramarine?')
     answer = input('Enter your answer: ')
-    if answer == 'Lapiz lazuli':
+    if answer.lower() == 'lapiz lazuli':
         print('Correct!')
         total_score += 1
     else:
@@ -24,7 +24,7 @@ if topic.lower() == 'art':
 
     print('Anish Kapoor\'s bean-shaped Cloud Gate scuplture is a landmark of which city?')
     answer = input('Enter your answer: ')
-    if answer == 'Chicago':
+    if answer.lower() == 'chicago':
         print('Correct!')
         total_score += 1
     else:
@@ -41,7 +41,7 @@ elif topic.lower() == 'space':
     
     print('Which planet is closest to the sun?')
     answer = input('Enter your answer: ')
-    if answer == 'Mercury':
+    if answer.lower() == 'mercury':
         print('Correct!')
         total_score += 1
     else:
@@ -49,7 +49,7 @@ elif topic.lower() == 'space':
 
     print('Which planet spins in the opposite direction to all the others in the solar system?')
     answer = input('Enter your answer: ')
-    if answer == 'Venus':
+    if answer.lower() == 'venus':
         print('Correct!')
         total_score += 1
     else:
