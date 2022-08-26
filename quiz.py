@@ -22,7 +22,7 @@ if topic == 'art':
     else:
         print('Sorry, the correct answer is Lapiz lazuli.')
 
-    print('Anish Kapoor\'s bean-shaped Cloud Gate scuplture is a landmark of which city?')
+    print('Anish Kapoor\'s bean-shaped Cloud Gate sculpture is a landmark of which city?')
     answer = input('Enter your answer: ')
     if answer == 'Chicago':
         print('Correct!')
