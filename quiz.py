@@ -8,7 +8,7 @@ if topic == 'art':
 
     print('Who painted the Mona Lisa?')
     answer = input('Enter your answer: ')
-    if answer == 'Vincent Van Gogh':
+    if answer == 'Leonardo Da Vinci':
         print('Correct!')
         total_score += 1
     else:
