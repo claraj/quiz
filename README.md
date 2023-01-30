@@ -15,5 +15,5 @@ For testing, here are some extra questions. You may, of course, replace these wi
 ### Another topic - sport questions
 
 **Q:** Which gymnast is the "triple-twisting double-tucked salto backwards" skill named after? **A:** Simone Biles  
-**Q:** Which country has won the soccer world cup the most times? **A:** Brasil  
+**Q:** Which country has won the soccer world cup the most times? **A:** Brazil  
 **Q:** What does MLB stand for? **A:** Major League Baseball  
